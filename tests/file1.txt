@@ -1,0 +1,5 @@
+file1 line1 practice git
+file1 line2 practice git
+file1 line3 practice git
+file1 line4 practice git
+file1 line5 practice git
